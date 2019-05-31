@@ -1,4 +1,4 @@
-FROM openjdk
+FROM openjdk:11-jdk
 
 MAINTAINER Adam Copley <adam.copley@arola.co.uk>
 
